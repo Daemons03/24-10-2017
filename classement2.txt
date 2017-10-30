@@ -1,0 +1,5 @@
+1|<img src="../img/logopsg.png">|Paris-Saint-Germain|26
+2|<img src="../img/logomon.png">|Monaco|22
+3|<img src="../img/logonan.png">|Nantes|20
+4|<img src="../img/logolyo.png">|Lyon|19
+5|<img src="../img/logomar.png">|Marseille|18

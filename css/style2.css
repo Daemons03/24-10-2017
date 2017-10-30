@@ -1,0 +1,25 @@
+html{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.section{
+	text-align: center;
+	color: white;
+	padding-top: 20%;
+}
+#section1{
+	background-color: red;
+}
+#section2{
+	background-color: black;
+}
+#section3{
+	background-color: green;
+}
+#section4{
+	background-color: lightblue;
+}
+#section5{
+	background-color: orange;
+}

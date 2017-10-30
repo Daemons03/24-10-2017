@@ -1,0 +1,84 @@
+html{
+	width: 100%;
+	/*background-image: url(../img/fond3.jpg);
+	background-repeat: repeat;*/
+	background-color: #003300;
+}
+body{
+	width: 60%;
+	margin: auto;
+}
+header{
+	overflow: hidden;
+}
+nav{
+	width: 100%;
+	border: 2px solid green;
+	background-color: white;
+}
+nav ul{
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	list-style-type: none;
+}
+nav li{
+	width: 33%;
+	text-align: center;
+}
+nav li:hover{
+	background-color: grey;
+}
+nav a{
+	text-decoration: none;
+	color: black;
+}
+nav a:hover{
+	color: red;
+}
+#partie1{
+	width: 90%;
+	margin-top: 3%;
+	padding: 5%;
+	border: 2px solid green;
+}
+#partie1 img{
+	padding-left: 3%;
+}
+#partie1 p{
+	text-align: justify;
+	padding-left: 3%;
+	padding-right: 3%;
+	width: 60%;
+	display: inline-block;
+}
+footer{
+	width: 100%;
+	margin-top: 2%;
+	text-align: center;
+	border: 2px solid green;
+	background-color: white;
+}
+#formulaire{
+	border: 2px solid green;
+	padding: 5%;
+	margin-top: 2%;
+	text-align: center;
+}
+#message{
+	border: 2px solid green;
+	text-align: left;
+	padding: 5%;
+	line-height: 150%;
+}
+#message span{
+	background-color: white;
+	padding-right: 1%;
+	padding-left: 1%;
+}
+#contenumsg{
+	background-color: white;
+	padding: 3%;
+	margin-top: 2%;
+	text-align: justify;
+}

@@ -1,0 +1,27 @@
+html{
+	width: 100%;
+	background-color: white;
+}
+body{
+	width: 50%;
+	margin: auto;
+	margin-top: 2%;
+	text-align: justify;	
+}
+section{
+	background-color: #666699;
+	width: 50%;
+	margin: auto;
+	padding: 20px;
+}
+form{
+	width: 50%;
+	margin: auto;
+	margin-top: 5%;
+	background-color: grey;
+	padding: 20px;
+}
+.surli{
+	background-color: pink;
+	color: red;
+}
